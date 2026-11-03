@@ -1,0 +1,14 @@
+[project]
+name = "alber_comfyui_video_preview"
+version = "1.0.0"
+description = "Alber_comfyui_video_preview · 可随意缩放的 ComfyUI 视频预览节点，支持 IMAGE 批次 / VIDEO / GIF / MP4 / MOV / 本地视频"
+license = { text = "MIT" }
+authors = [{ name = "Alber" }]
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.comfy]
+PublisherId = "alber"
+DisplayName = "Alber_comfyui_video_preview"
+Icon = ""
+requires-comfyui = ">=0.3.0"
